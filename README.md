@@ -11,6 +11,7 @@
   - Message Queues
   - REST | gRPC | GraphQL
   - Logging, metrics, automation
+  - Back of the envelope Calculation: QPS | Storage | Number of Servers
 
 ## Low-Level Design (LLDs)
 
