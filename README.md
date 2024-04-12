@@ -1,5 +1,7 @@
 ## System Design Concepts
 
+## Low Level Design (LLDs)
+
 ## DSA Concepts
 
 ## Go Concepts
