@@ -9,6 +9,7 @@
   - Cache
   - CDN
   - Message Queues
+  - REST | gRPC | GraphQL
 
 ## Low-Level Design (LLDs)
 
