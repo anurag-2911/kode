@@ -14,6 +14,10 @@
   - Back of the envelope Calculation: QPS | Storage | Number of Servers
 
 ## Low-Level Design (LLDs)
+  - Rate Limiter
+  - Meeting Scheduler
+  - HashTable
+  - LRU Cache
 
 ## DSA Concepts
 
