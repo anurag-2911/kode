@@ -12,7 +12,7 @@
   - REST | gRPC | GraphQL
   - Logging, metrics, automation
   - Back of the envelope Calculation: QPS | Storage | Number of Servers
-  - Problems
+  - High-Level Design Problems (HLDs)
      - URL Shortener
      - Rate Limiter
 
