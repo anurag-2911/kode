@@ -10,6 +10,7 @@
   - CDN
   - Message Queues
   - REST | gRPC | GraphQL
+  - Logging, metrics, automation
 
 ## Low-Level Design (LLDs)
 
