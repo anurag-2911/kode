@@ -15,7 +15,7 @@
   - Cache: Redis | MemCache
   - CDN
   - Message Queues |  Event-driven architecture
-  - Microservices and communication patterns: REST | gRPC | GraphQL
+  - Microservices and communication patterns: REST | gRPC | GraphQL | Message Queues
   - Logging, metrics, automation
   - Back of the envelope Calculation: QPS | Storage | Number of Servers
   - High-Level Design Problems (HLDs)
