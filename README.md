@@ -42,9 +42,22 @@
    - 
 
 ## Go Concepts
-
+  - Loops
+  - Channels and Go Routines
+  - Structs and interfaces
+  - Channel patterns
+  - Packages like go-gin for REST, gorm for database interactions
+  - error handling in go
+  - pointers
+  - slices, arrays, and maps
+  - 
 ## Behavioural
-
+  - Why do you want to join our company?
+  - Explain the most challenging task you have done in your career.
+  - Could you tell me a situation when you got constructive feedback?
+  - Could you tell me when you had a difficult interaction with a team-mate?
+  - Explain about your team and interaction with stakeholders in day-to-day tasks.
+  - Explain about your role in the team.
 ## CI/CD
 
 ## Microservices
