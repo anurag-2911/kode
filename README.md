@@ -21,6 +21,7 @@
   - High-Level Design Problems (HLDs)
      - URL Shortener
      - Rate Limiter
+       -Token Bucket Algorithm 
 
 ## Low-Level Design (LLDs)
   - Rate Limiter
