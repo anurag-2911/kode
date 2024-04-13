@@ -5,10 +5,10 @@
   - Web Server
       - Stateful and Stateless architecture
   - Application Server
-  - Database : SQL | NoSQL | Replication | Partitioning(Sharding)
-  - Cache
+  - Database : SQL | NoSQL  GraphDB | DocumentDB | Replication | Partitioning(Sharding) 
+  - Cache: Redis | MemCache
   - CDN
-  - Message Queues
+  - Message Queues |  Event-driven architecture
   - REST | gRPC | GraphQL
   - Logging, metrics, automation
   - Back of the envelope Calculation: QPS | Storage | Number of Servers
