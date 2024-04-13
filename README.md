@@ -1,9 +1,9 @@
 ## System Design
   - Approach
-        - Understand the problem and clarify all the requirements
-        - Write high-level design and high-level diagrams
-        - Implement all the components of high-level diagrams in detail
-        - Tool: https://excalidraw.com/
+    - Understand the problem and clarify all the requirements
+    - Write high-level design and high-level diagrams
+    - Implement all the components of high-level diagrams in detail
+    - Tool: https://excalidraw.com/
         
   - API Gateway
   - Load Balancer
