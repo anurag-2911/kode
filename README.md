@@ -30,7 +30,16 @@
   - HashTable
   - LRU Cache
 
-## DSA Concepts
+## DSA Problems
+   - Arrays | Strings | HashTable | Queues | LinkList | Stack | Search | Sort | Graph | Recursion | Dynamic Programming
+   - Arrays common problems
+     - Reverse an Array
+     - Find the Missing Number in natural numbers (Asked in Amazon)
+     - Rotate Array
+     - Find the Duplicate Number
+     - Merge Two Sorted Arrays(Asked in HelloFresh)
+   - String Common problems
+   - 
 
 ## Go Concepts
 
