@@ -52,6 +52,7 @@
   - slices, arrays, and maps
   - 
 ## Behavioural
+  - Use Star Technique: Situation, Task,Action and Result: https://www.indeed.com/career-advice/interviewing/how-to-use-the-star-interview-response-technique
   - Why do you want to join our company?
   - Explain the most challenging task you have done in your career.
   - Could you tell me a situation when you got constructive feedback?
