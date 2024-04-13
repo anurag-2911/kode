@@ -21,7 +21,23 @@
   - High-Level Design Problems (HLDs)
      - URL Shortener
      - Rate Limiter
-        - Token Bucket Algorithm 
+        - Token Bucket Algorithm
+     - Storage based Design
+        - S3-like storage system
+        - CDN
+        - Google Drive
+     - Content streaming-based design
+         - You Tube
+         - Netflix
+     -  E-commerce
+         - Design Hotel reservation
+         - Design Shopping websites like Amazon
+     -  Graph-Based design:
+        - Web crawler
+        - Google Map
+        - Search Engine
+        - Nearby Friends
+        - News Feed
 
 ## Low-Level Design (LLDs)
   - Rate Limiter
