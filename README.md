@@ -123,9 +123,31 @@
   - Redis
   - MemCache
 
-## Object-Oriented Programming
+## Object-Oriented Programming and Design Patterns
+  - What is an interface and how is it different from an abstract class?
+  - Can you explain polymorphism with an example?
+  - What are the four basic principles of Object-Oriented Programming?
+    (encapsulation, inheritance, polymorphism, and abstraction)
+  - How does inheritance work in OOP?
+  - What is encapsulation? and What is an abstraction in OOP?
+  - Can you explain the concept of a constructor? What is a destructor?
+  - What are access specifiers? Provide examples.
+  - What is method overriding and method overloading?
+  - What is the 'this' keyword and how is it used?
+  - Can you describe what composition and aggregation are in OOP?
+  - What is multiple inheritance and what problems can it introduce?
+  - What are virtual functions?
+  - How do you handle exceptions in OOP?
+  - What is the difference between deep copy and shallow copy?
+  - What are SOLID principles? Can you explain the Liskov Substitution Principle?
+  - What are coupling and cohesion
+  - How do you ensure that a class is immutable?
+  - What are design patterns? Give examples of some common design patterns used in your project.
+  - 
 
-## Design Patterns
+
+
+
 
 ## Database
 
