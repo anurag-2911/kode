@@ -55,7 +55,8 @@
      - Find the Duplicate Number
      - Merge Two Sorted Arrays(Asked in HelloFresh)
    - String Common problems
-   - 
+     - Reverse a String | Check for Palindrome | Find Duplicate Characters | Anagrams | First Non-Repeated Character | Most Repeated Character | String to Integer | Longest Substring Without Repeating Characters
+     - Longest Palindromic Substring | Substring Check | String Compression | Valid Parentheses
 
 ## Go Concepts
   - Loops
