@@ -95,6 +95,22 @@
 ## UTs and CTs
 
 ## Microservices
+  - What are microservices? What are the challenges in microservices architecture?
+  - Can you explain the concept of domain-driven design (DDD) in the context of microservices?
+  - How do microservices communicate with each other?
+    (synchronous and asynchronous communication methods between microservices, such as RESTful APIs, messaging queues, and event streams)
+  - What are some common patterns used in microservices architecture?
+    (API Gateway, Circuit Breaker, Service Discovery, and Config Server)
+  - What challenges might you face while implementing microservices and how would you address them?
+  - How do you handle data management in a microservices architecture?
+  - What role do containers and container orchestration tools play in microservices?
+  - How do you ensure the security of microservices?
+  - How do you monitor and troubleshoot a microservices architecture?
+  - What is the role of DevOps in microservices environments?
+  - 
+
+
+
 
 ## Kubernetes
 
