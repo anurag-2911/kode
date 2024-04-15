@@ -57,6 +57,31 @@
    - String Common problems
      - Reverse a String | Check for Palindrome | Find Duplicate Characters | Anagrams | First Non-Repeated Character | Most Repeated Character | String to Integer | Longest Substring Without Repeating Characters
      - Longest Palindromic Substring | Substring Check | String Compression | Valid Parentheses
+   - HashTables
+       - Two Sum Problem
+          (Given an array of integers and a target sum, find two numbers such that they add up to the target sum.)
+       - Longest Consecutive Sequence
+          (Given an unsorted array of integers, find the length of the longest consecutive elements sequence.)
+       - First Unique Character in a String
+          (Find the first non-repeating character in a string and return its index.)
+       - Subarray Sum Equals K
+          (Given an array of integers and an integer k, find the total number of continuous subarrays whose sum equals to k.)
+       - Group Anagrams
+          (Given an array of strings, group anagrams together.)
+       - Contains Duplicate
+          (Given an array of integers, find if the array contains any duplicates.)
+       - Find All Anagrams in a String
+          (Given a string s and a non-empty string p, find all the start indices of p's anagrams in s.)
+       - Longest Substring Without Repeating Characters
+          (Given a string, find the length of the longest substring without repeating characters.)
+       - Check if Array Pairs are Divisible by k
+          (Given an array of integers and an integer k, check if it's possible to divide this array into pairs such that the sum of every pair is divisible by k.)
+       - Design a Hashmap
+          (Design a hashmap without using any built-in hash table libraries.)
+       - Implement LRU Cache
+          (Design and implement a data structure for the Least Recently Used (LRU) cache.)
+
+
 
 ## Go Concepts
   - Loops
