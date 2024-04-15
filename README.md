@@ -79,6 +79,18 @@
   - If you are interacting with other team's team members and the task is not done by that team member how you will approach the situation?
   - How do team members describe you, what they like in you, and what they don't like in you?
 ## CI/CD
+  - Explain Continuous Integration, Continuous Deployment, and Continuous Delivery done in your project.
+  - Can you describe the CI/CD pipeline and its key stages
+  - What tools are you familiar with for implementing CI/CD?
+  - How do you handle database schema changes in CI/CD pipelines?
+  - What are some common problems in CI/CD, and how can they be mitigated
+  - What is containerization, and how does it integrate with CI/CD pipelines?
+  - How do you ensure security within your CI/CD pipeline?
+  - What is blue-green deployment, and why is it used in CD?
+  - Can you explain how monitoring and logging are handled in CI/CD environments?
+  - 
+
+
 
 ## UTs and CTs
 
@@ -87,5 +99,17 @@
 ## Kubernetes
 
 ## Event Driven Design
+    - Kafka
+    - rabbitmq
+    - 
 
-## Cache
+## Caching
+  - Redis
+  - MemCache
+
+## Object-Oriented Programming
+
+## Design Patterns
+
+## Database
+
