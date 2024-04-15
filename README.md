@@ -66,16 +66,21 @@
   - error handling in go
   - pointers
   - slices, arrays, and maps
+  - Which OOPs concepts are supported in Go
   - 
 ## Behavioural
-  - Use Star Technique: Situation, Task,Action and Result: https://www.indeed.com/career-advice/interviewing/how-to-use-the-star-interview-response-technique
+  - Use Star Technique: Situation, Task, Action and Result: https://www.indeed.com/career-advice/interviewing/how-to-use-the-star-interview-response-technique
   - Why do you want to join our company?
   - Explain the most challenging task you have done in your career.
   - Could you tell me a situation when you got constructive feedback?
   - Could you tell me when you had a difficult interaction with a team-mate?
   - Explain about your team and interaction with stakeholders in day-to-day tasks.
-  - Explain about your role in the team.
+  - Could you explain your role in the team?
+  - If you are interacting with other team's team members and the task is not done by that team member how you will approach the situation?
+  - How do team members describe you, what they like in you, and what they don't like in you?
 ## CI/CD
+
+## UTs and CTs
 
 ## Microservices
 
