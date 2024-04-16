@@ -84,8 +84,8 @@
 
 
 ## Go Concepts
-  - Loops : for and for range
-  - Channels and Go Routines
+  - Loops: for and for range
+  - Channels and Go Routines | Buffered and unbuffered channels
   - Structs and interfaces
   - Channel patterns: fan-in/ fan-out, worker pattern
   - Packages like go-gin for REST, gorm for database interactions
