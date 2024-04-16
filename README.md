@@ -1,26 +1,28 @@
 ## System Design
   - Approach
-    - Understand the problem and clarify all the requirements
-    - Write high-level design and high-level diagrams
-    - Implement all the components of high-level diagrams in detail
-    - Tool: https://excalidraw.com/
+    - Steps:
+      - Understand the problem and clarify all the requirements
+      - Write high-level design and high-level diagrams
+      - Implement all the components of high-level diagrams in detail
     - Resources:
       - https://bytebytego.com/courses/system-design-interview/foreword
-      - Implement small projects for each of the design problems and refine it to the perfection
+      - https://www.educative.io/courses/grokking-modern-system-design-interview-for-engineers-managers
+      - Implement small projects for each of the design problems and refine them to perfection.
+      - Tool: https://excalidraw.com/: For drawing System Design problems
         
-  - API Gateway
-  - Load Balancer
-  - Vertical Scaling and Horizontal Scaling
-  - Web Server
+  - Concepts needed for System Design:
+    - API Gateway | Load Balancer | Vertical Scaling and Horizontal Scaling
+    - Web Server
       - Stateful and Stateless architecture
-  - Application Server
-  - Database : SQL | NoSQL | GraphDB | DocumentDB | Replication | Partitioning(Sharding) 
-  - Cache: Redis | MemCache
-  - CDN
-  - Message Queues |  Event-driven architecture
-  - Microservices and communication patterns: REST | gRPC | GraphQL | Message Queues
-  - Logging, metrics, automation
-  - Back of the envelope Calculation: QPS | Storage | Number of Servers
+    - Application Server
+    - Database : SQL | NoSQL | GraphDB | DocumentDB | Replication | Partitioning(Sharding) 
+    - Cache: Redis | MemCache
+    - CDN
+    - Message Queues |  Event-driven architecture
+    - Microservices and communication patterns: REST | gRPC | GraphQL | Message Queues
+    - Logging, metrics, automation
+    - Back of the envelope Calculation: QPS | Storage | Number of Servers
+    - 
   - High-Level Design Problems (HLDs)
      - URL Shortener
      - Rate Limiter
