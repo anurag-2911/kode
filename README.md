@@ -84,15 +84,16 @@
 
 
 ## Go Concepts
-  - Loops
+  - Loops : for and for range
   - Channels and Go Routines
   - Structs and interfaces
-  - Channel patterns
+  - Channel patterns: fan-in/ fan-out, worker pattern
   - Packages like go-gin for REST, gorm for database interactions
   - error handling in go
   - pointers
   - slices, arrays, and maps
   - Which OOPs concepts are supported in Go
+  - init function | type assertion
   - 
 ## Behavioural
   - Use Star Technique: Situation, Task, Action and Result: https://www.indeed.com/career-advice/interviewing/how-to-use-the-star-interview-response-technique
