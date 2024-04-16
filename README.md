@@ -4,6 +4,9 @@
     - Write high-level design and high-level diagrams
     - Implement all the components of high-level diagrams in detail
     - Tool: https://excalidraw.com/
+    - Resources:
+      - https://bytebytego.com/courses/system-design-interview/foreword
+      - Implement small projects for each of the design problems and refine it to the perfection
         
   - API Gateway
   - Load Balancer
