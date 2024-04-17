@@ -168,10 +168,10 @@
   - Security Practices
     - Role-based access control (RBAC), Security Contexts, and Network Policies.
     - Best practices for securing a Kubernetes cluster.
-  - Monitoring and Logging:**
+  - Monitoring and Logging
    - Tools and strategies for monitoring the health of a Kubernetes cluster.
    - Understanding of logging practices within Kubernetes using tools like Fluentd, Prometheus, and Grafana.
-  - Troubleshooting:**
+  - Troubleshooting
     - Common issues that might arise in a Kubernetes environment and how to troubleshoot them.
     - Debugging pods and services.
   - Understanding of Helm charts for package management.
