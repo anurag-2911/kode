@@ -218,7 +218,19 @@
 
 
 
-
+## C# and .NET
+  - Data types, variables, and operators | Control structures  | Exception handling | nullable types
+  - Principles of OOP: Encapsulation, Inheritance, Polymorphism, and Abstraction | Interfaces vs Abstract classes
+  - Constructors, including static constructors and private constructors
+  - Overloading and overriding methods
+  - Delegates, events, and lambdas
+  - Extension methods | LINQ
+  - Threads | Async/Await and asynchronous programming
+  - Reflection
+  - Differences between .NET Framework, .NET Core
+  - CLR | Memory management and garbage collection
+  - Unit testing with frameworks like NUnit or xUnit | Integration testing and mocking frameworks like Moq.
+  - Debugging techniques and tools in Visual Studio
 
 ## Database
 
