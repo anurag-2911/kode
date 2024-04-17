@@ -87,6 +87,11 @@
           (Design and implement a data structure for the Least Recently Used (LRU) cache.)
 
 
+## Misc
+    - How you do code review, which things you consider in a review.
+    - How do you mentor a junior?
+    - How much unit test coverage do you have, and how do you follow TDD?
+    - How much you interact with the stakeholders.
 
 ## Go Concepts
   - Loops: for and for range
@@ -177,10 +182,9 @@
   - Understanding of Helm charts for package management.
   - Kubernetes Operators and Custom Resource Definitions (CRDs).
   - Service Meshes (like Istio) and their role in a Kubernetes environment.
-  - IaC : Terraform
+  - IaC(Infra as Code) : Terraform
 
-Preparing responses and practical examples for these topics will help you handle a range of questions during a Kubernetes interview.
-  - 
+
 ## Event Driven Design
     - Kafka
     - rabbitmq
