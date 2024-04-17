@@ -147,7 +147,40 @@
 
 
 ## Kubernetes
+  - Kubernetes Architecture: Kubernetes cluster, nodes, pods, services, etcd, kubelet, kube-proxy, and the control plane (API server, scheduler, controller manager).
+  - How Kubernetes manages containerized applications and what components are involved in deploying an application.
+  - Pods and Containers
+  - Services and Networking
+  - The concept of services and how they enable communication between different parts of a cluster.Types of services (ClusterIP, NodePort, LoadBalancer).
+  - Network policies and their role in controlling pod communication within a cluster.
+  - Volumes and Storage
+  - Understanding persistent volumes, persistent volume claims, and the role of the StorageClass.
+  - Different types of volumes supported by Kubernetes and their use cases.
+  - Deployment and Scaling
+  - How to manage application deployment using Kubernetes objects like Deployments, StatefulSets, and DaemonSets.
+  - Scaling applications in Kubernetes and the role of the Horizontal Pod Autoscaler.
+  - Configuration and Secrets Management
+   - Using ConfigMaps and Secrets to manage configuration and sensitive data in Kubernetes.
+   - Best practices for securely managing secrets and configurations.
+   - Kubernetes API and CLI Tools
+     - Familiarity with `kubectl` commands for managing resources.
+     - Understanding how to interact with the Kubernetes API.
+  - Security Practices
+    - Role-based access control (RBAC), Security Contexts, and Network Policies.
+    - Best practices for securing a Kubernetes cluster.
+  - Monitoring and Logging:**
+   - Tools and strategies for monitoring the health of a Kubernetes cluster.
+   - Understanding of logging practices within Kubernetes using tools like Fluentd, Prometheus, and Grafana.
+  - Troubleshooting:**
+    - Common issues that might arise in a Kubernetes environment and how to troubleshoot them.
+    - Debugging pods and services.
+  - Understanding of Helm charts for package management.
+  - Kubernetes Operators and Custom Resource Definitions (CRDs).
+  - Service Meshes (like Istio) and their role in a Kubernetes environment.
+  - IaC : Terraform
 
+Preparing responses and practical examples for these topics will help you handle a range of questions during a Kubernetes interview.
+  - 
 ## Event Driven Design
     - Kafka
     - rabbitmq
