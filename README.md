@@ -90,7 +90,7 @@
 
 ## Go Concepts
   - Loops: for and for range
-  - Channels and Go Routines | Buffered and unbuffered channels
+  - Channels and Go Routines | Buffered and unbuffered channels | synchronization and locks 
   - Structs and interfaces
   - Channel patterns: fan-in/ fan-out, worker pattern
   - Packages like go-gin for REST, gorm for database interactions
@@ -109,8 +109,9 @@
   - Could you tell me when you had a difficult interaction with a team-mate?
   - Explain about your team and interaction with stakeholders in day-to-day tasks.
   - Could you explain your role in the team?
-  - If you are interacting with other team's team members and the task is not done by that team member how you will approach the situation?
-  - How do team members describe you, what they like in you, and what they don't like in you?
+  - If you are interacting with other team members and the task is not done by that team member, how will you approach the situation?
+  - How do team members describe you, what they like about you, and what they don't like about you?
+  - 
 ## CI/CD
   - Explain Continuous Integration, Continuous Deployment, and Continuous Delivery done in your project.
   - Can you describe the CI/CD pipeline and its key stages
