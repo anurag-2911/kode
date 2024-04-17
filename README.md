@@ -99,7 +99,8 @@
   - slices, arrays, and maps
   - Which OOPs concepts are supported in Go
   - init function | type assertion
-  - 
+  - Profiling tools: Memory and CPU profiling
+  - UT and mocks: testing package and mock packages: simple tests,table-based testing, benchmark testing, etc.
 ## Behavioural
   - Use Star Technique: Situation, Task, Action and Result: https://www.indeed.com/career-advice/interviewing/how-to-use-the-star-interview-response-technique
   - Why do you want to join our company?
