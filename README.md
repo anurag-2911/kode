@@ -7,7 +7,7 @@
     - Resources:
       - https://bytebytego.com/courses/system-design-interview/foreword
       - https://www.educative.io/courses/grokking-modern-system-design-interview-for-engineers-managers
-      - Implement small projects for each of the design problems and refine them to perfection.
+      - Implement small projects for each design problem and refine them to perfection.
       - Tool: https://excalidraw.com/: For drawing System Design problems
         
   - Concepts needed for System Design:
@@ -114,7 +114,7 @@
   - Could you tell me when you had a difficult interaction with a team-mate?
   - Explain about your team and interaction with stakeholders in day-to-day tasks.
   - Could you explain your role in the team?
-  - If you are interacting with other team members and the task is not done by that team member, how will you approach the situation?
+  - How will you approach the situation if you are interacting with other team members and the task is not done by that team member?
   - How do team members describe you, what they like about you, and what they don't like about you?
   - 
 ## CI/CD
@@ -233,4 +233,28 @@
   - Debugging techniques and tools in Visual Studio
 
 ## Database
+   - Relational database design | Normalization and denormalization | Primary, foreign keys.
+   - SQL queries involving multiple tables (JOINs, subqueries, unions).
+   - Aggregate functions and how to use GROUP BY and HAVING clauses.
+   - SQL functions for data manipulation and conversion.
+   - ACID properties (Atomicity, Consistency, Isolation, Durability).
+   - Transactions, locks, and concurrency control.
+   - Deadlocks
+   - Indexing strategies and types of indexes.
+   - Query optimization techniques.
+   - Query optimizer and query execution plans.
+   - Performance implications of different database designs.
+   - Differences between SQL and NoSQL databases.
+   - Types of NoSQL databases (document, key-value, column-family, graph) and their use cases.
+   - When to choose NoSQL over a traditional relational database.
+   - Methods for securing database access (authentication and authorization).
+   - SQL injection and other common security threats.
+   - Data encryption techniques both at rest and in transit.
+   - Strategies for data backup, and types of backups (full, incremental, differential).
+   - Disaster recovery plans and techniques.
+   - Point-in-time recovery.
+   - Cloud database services (e.g., AWS RDS, Azure SQL Database, Google Cloud SQL).
+   - Scaling databases horizontally (sharding) vs. vertically.
+   - Managing and maintaining databases in a cloud environment.
+
 
