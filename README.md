@@ -139,7 +139,7 @@
   - How do microservices communicate with each other?
     (synchronous and asynchronous communication methods between microservices, such as RESTful APIs, messaging queues, and event streams)
   - What are some common patterns used in microservices architecture?
-    (API Gateway, Circuit Breaker, Service Discovery, and Config Server)
+    (API Gateway, Circuit Breaker, Service Discovery, SAGA pattern, etc)
   - What challenges might you face while implementing microservices and how would you address them?
   - How do you handle data management in a microservices architecture?
   - What role do containers and container orchestration tools play in microservices?
