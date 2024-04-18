@@ -149,8 +149,6 @@
   - 
 
 
-
-
 ## Kubernetes
   - Kubernetes Architecture: Kubernetes cluster, nodes, pods, services, etcd, kubelet, kube-proxy, and the control plane (API server, scheduler, controller manager).
   - How Kubernetes manages containerized applications and what components are involved in deploying an application.
@@ -186,9 +184,9 @@
 
 
 ## Event Driven Design
-    - Kafka
-    - rabbitmq
-    - 
+  - Kafka
+  - rabbitmq
+  - 
 
 ## Caching
   - Redis
