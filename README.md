@@ -1,3 +1,12 @@
+## Interview rounds
+ - Recruiter screening: Whether your skillset matches the job requirements and team culture
+ - Live Coding: 30 mins to 1 hr
+ - Or Online coding by hacker rank, codility, etc (Live coding is easier as the approach can be demonstrated even if the problem is not exactly solved)
+ - Conversation interview: About skillset and projects
+ - System Design (1 or 2 rounds)
+ - Executive interview: technical interview by higher management
+ - Culture fit or behavioral interview
+ - Recruiter round for salary discussion
 ## System Design
   - Approach
     - Steps:
@@ -44,7 +53,7 @@
         - Nearby Friends
         - News Feed
 
-## Low-Level Design (LLDs)
+## Low-Level Design (LLDs): actual functions and code
   - Rate Limiter
         - Token Bucket Algorithm (Example code: kode\lld\lld_test.go)
   - Meeting Scheduler
@@ -64,7 +73,7 @@
      - Longest Palindromic Substring | Substring Check | String Compression | Valid Parentheses
    - HashTables
        - Two Sum Problem
-          (Given an array of integers and a target sum, find two numbers such that they add up to the target sum.)
+          (Given an array of integers and a target sum, find two numbers that add up to the target sum.)
        - Longest Consecutive Sequence
           (Given an unsorted array of integers, find the length of the longest consecutive elements sequence.)
        - First Unique Character in a String
@@ -211,7 +220,7 @@
   - What are SOLID principles? Can you explain the Liskov Substitution Principle?
   - What are coupling and cohesion
   - How do you ensure that a class is immutable?
-  - What are design patterns? Give examples of some common design patterns used in your project.
+  - What are design patterns? Could you give examples of some common design patterns used in your project?
   - 
 
 
