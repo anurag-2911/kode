@@ -88,10 +88,10 @@
 
 
 ## Misc
-    - How you do code review, which things you consider in a review.
-    - How do you mentor a junior?
-    - How much unit test coverage do you have, and how do you follow TDD?
-    - How much you interact with the stakeholders.
+  - How you do code review, which things you consider in a review.
+  - How do you mentor a junior?
+  - How much unit test coverage do you have, and how do you follow TDD?
+  - How much you interact with the stakeholders.
 
 ## Go Concepts
   - Loops: for and for range
