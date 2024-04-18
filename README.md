@@ -231,6 +231,7 @@
   - Debugging techniques and tools in Visual Studio
 
 ## Database
+   - PostGresSQL | Cassandra | MongoDB 
    - Relational database design | Normalization and denormalization | Primary, foreign keys.
    - SQL queries involving multiple tables (JOINs, subqueries, unions).
    - Aggregate functions and how to use GROUP BY and HAVING clauses.
