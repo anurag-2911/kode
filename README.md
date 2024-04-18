@@ -69,6 +69,8 @@
       - Attempt for 30 mins to 45 mins then seek help
       - Eventually, solve without any help
    - Arrays | Strings | HashTable | Queues | LinkList | Stack | Search | Sort | Graph | Recursion | Dynamic Programming
+   - DP: https://www.youtube.com/watch?v=oBt53YbR9Kk&t=6s&ab_channel=freeCodeCamp.org
+   - Recursion: https://www.youtube.com/watch?v=IJDJ0kBx2LM&t=4403s&ab_channel=freeCodeCamp.org
    - Arrays common problems
      - Reverse an Array
      - Find the Missing Number in natural numbers (Asked in Amazon)
