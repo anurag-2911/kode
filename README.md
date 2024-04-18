@@ -1,11 +1,14 @@
 ## Interview rounds
- - Recruiter screening: Whether your skillset matches the job requirements and team culture
+ - Recruiter screening: Whether the skill set matches the job requirements and soft skills check for the current team culture: 30 mins to 1 hr
  - Live Coding: 30 mins to 1 hr
+    -  initial coding
+    -  handling edge cases
+    -  UTs
  - Or Online coding by hacker rank, codility, etc (Live coding is easier as the approach can be demonstrated even if the problem is not exactly solved)
- - Conversation interview: About skillset and projects
- - System Design (1 or 2 rounds)
- - Executive interview: technical interview by higher management
- - Culture fit or behavioral interview
+ - Conversational interview(no coding or design): Technical questions about skillset and projects: 1 hr 
+ - System Design (1 or 2 rounds): 1 hr
+ - Executive interview(no coding or design): technical conversational interview by higher management: 1 hr
+ - Culture fit or behavioral interview:30 mins to 1 hr
  - Recruiter round for salary discussion
 ## System Design
   - Approach
@@ -54,6 +57,7 @@
         - News Feed
 
 ## Low-Level Design (LLDs): actual functions and code
+  - Resource: Solve 1 problem every week
   - Rate Limiter
         - Token Bucket Algorithm (Example code: kode\lld\lld_test.go)
   - Meeting Scheduler
@@ -61,6 +65,9 @@
   - LRU Cache
 
 ## DSA Problems
+   - Resource: Solving 1-2 problems every day
+      - Attempt for 30 mins to 45 mins then seek help
+      - Eventually, solve without any help
    - Arrays | Strings | HashTable | Queues | LinkList | Stack | Search | Sort | Graph | Recursion | Dynamic Programming
    - Arrays common problems
      - Reverse an Array
@@ -103,6 +110,7 @@
   - How much you interact with the stakeholders.
 
 ## Go Concepts
+  - Resource: Go official tutorial(https://go.dev/learn/#tutorials) and then doing assignments
   - Loops: for and for range
   - Channels and Go Routines | Buffered and unbuffered channels | synchronization and locks 
   - Structs and interfaces
@@ -127,6 +135,7 @@
   - How do team members describe you, what they like about you, and what they don't like about you?
   - 
 ## CI/CD
+  - Resource: Implementing on projects
   - Explain Continuous Integration, Continuous Deployment, and Continuous Delivery done in your project.
   - Can you describe the CI/CD pipeline and its key stages
   - What tools are you familiar with for implementing CI/CD?
@@ -139,10 +148,15 @@
   - 
 
 
-
 ## UTs and CTs
-
+  - UTs
+  - Mocking
+  - Test coverage
+  - TDD practice
+  - 
 ## Microservices
+  - Resource
+    - Implement small projects.
   - What are microservices? What are the challenges in microservices architecture?
   - Can you explain the concept of domain-driven design (DDD) in the context of microservices?
   - How do microservices communicate with each other?
@@ -159,6 +173,7 @@
 
 
 ## Kubernetes
+  - Resource: Implementing K8s concepts by doing small projects
   - Kubernetes Architecture: Kubernetes cluster, nodes, pods, services, etcd, kubelet, kube-proxy, and the control plane (API server, scheduler, controller manager).
   - How Kubernetes manages containerized applications and what components are involved in deploying an application.
   - Pods and Containers
@@ -193,11 +208,15 @@
 
 
 ## Event Driven Design
+  - Resource
+    - Small projects
   - Kafka
   - rabbitmq
   - 
 
 ## Caching
+  - Resource
+     - Small projects
   - Redis
   - MemCache
 
@@ -226,6 +245,8 @@
 
 
 ## C# and .NET
+  - Resource
+    - Jeffrey Richter clr via c# 5th edition ebook
   - Data types, variables, and operators | Control structures  | Exception handling | nullable types
   - Principles of OOP: Encapsulation, Inheritance, Polymorphism, and Abstraction | Interfaces vs Abstract classes
   - Constructors, including static constructors and private constructors
@@ -240,6 +261,8 @@
   - Debugging techniques and tools in Visual Studio
 
 ## Database
+   - Resource:
+     - Implement Small projects
    - PostGresSQL | Cassandra | MongoDB 
    - Relational database design | Normalization and denormalization | Primary, foreign keys.
    - SQL queries involving multiple tables (JOINs, subqueries, unions).
