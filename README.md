@@ -1,6 +1,6 @@
 ## Interview rounds
- - Recruiter screening: Whether the skill set matches the job requirements and soft skills check for the current team culture: 30 mins to 1 hr
- - Live Coding: 30 mins to 1 hr
+ - Recruiter screening/ Hiring Manager screening: Whether the skill set matches the job requirements and soft skills check for the current team culture: 30 mins to 1 hr
+ - Live Coding(sharing desktop and coding): 30 mins to 1 hr
     -  initial coding
     -  handling edge cases
     -  UTs
