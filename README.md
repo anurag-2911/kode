@@ -248,7 +248,7 @@
 
 ## C# and .NET
   - Resource
-    - Jeffrey Richter clr via c# 5th edition ebook
+    - Jeffrey Richter clr via c# ebook
   - Data types, variables, and operators | Control structures  | Exception handling | nullable types
   - Principles of OOP: Encapsulation, Inheritance, Polymorphism, and Abstraction | Interfaces vs Abstract classes
   - Constructors, including static constructors and private constructors
