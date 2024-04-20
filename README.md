@@ -219,7 +219,7 @@
   - Understanding of Helm charts for package management.
   - Kubernetes Operators and Custom Resource Definitions (CRDs).
   - Service Meshes (like Istio) and their role in a Kubernetes environment.
-  - IaC(Infra as Code) : Terraform
+  - IaaC(Infrastructure as a Code) : Terraform
 
 
 ## Event Driven Design
