@@ -11,7 +11,7 @@ import (
  1. Find the Maximum and Minimum Element in an Array-
     Write a function that returns the maximum and minimum numbers in an array.
 
-2. Reverse an Array - Implement a program to reverse an array or a string.
+ 2. Reverse an Array - Implement a program to reverse an array or a string.
 
  3. Sort an Array of 0s, 1s, and 2s - Given an array consisting only of 0s, 1s, and 2s,
     sort the array without using any sorting algorithm.
@@ -121,6 +121,7 @@ func TestSort012(t *testing.T) {
 	}
 
 }
+
 /*
 Variables: The variables low, mid, and high are pointers used to separate the elements:
 low is the position where the next 0 should be placed.
@@ -139,7 +140,7 @@ func sort012(arr []int) []int {
 		switch arr[mid] {
 		case 0:
 			{
-				arr[low],arr[mid]=arr[mid],arr[low]
+				arr[low], arr[mid] = arr[mid], arr[low]
 				low++
 				mid++
 			}
@@ -149,7 +150,7 @@ func sort012(arr []int) []int {
 			}
 		case 2:
 			{
-				arr[mid],arr[high]=arr[high],arr[mid]
+				arr[mid], arr[high] = arr[high], arr[mid]
 				high--
 			}
 		}
