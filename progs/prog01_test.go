@@ -28,12 +28,12 @@ import (
  7. Merge Two Sorted Arrays Without Using Extra Space -
     Merge two sorted arrays into a single sorted array without using extra space for another array.
 
-8. Kadane's Algorithm - Write a function that returns the maximum sum contiguous subarray within a one-dimensional numeric array.
+ 8. Kadane's Algorithm - Write a function that returns the maximum sum contiguous subarray within a one-dimensional numeric array.
 
  9. Find the Union and Intersection of Two Sorted Arrays - Given two sorted arrays,
     find their union and intersection.
 
-10. Cyclically Rotate an Array by One - Given an array, cyclically rotate the array clockwise by one index.
+ 10. Cyclically Rotate an Array by One - Given an array, cyclically rotate the array clockwise by one index.
 */
 func TestXxx(t *testing.T) {
 	fmt.Print()
