@@ -76,7 +76,7 @@
           Write a function that returns the maximum and minimum numbers in an array.
           Reverse an Array - Implement a program to reverse an array or a string.
      - Sort an Array of 0s, 1s, and 2s - Given an array consisting only of 0s, 1s, and 2s,
-         sort the array without using any sorting algorithm.
+         sort the array without using any sorting algorithm.(Dutch National Flag problem)
      - Find the "Kth" Max and Min Element of an Array -
         Given an array and a number k, find both the kth largest and the kth smallest elements in the array.
      - Move all the Negative Elements to One Side of the Array -
