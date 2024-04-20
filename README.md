@@ -66,8 +66,8 @@
 
 ## DSA Problems
    - Resource: Solving 1-2 problems every day
-      - Attempt for 30 mins to 45 mins then seek help
-      - Eventually, solve without any help
+      - Attempt for 30 mins to 45 mins then look for help
+      - Eventually, solve all the problems without any help
    - Arrays | Strings | HashTable | Queues | LinkList | Stack | Search | Sort | Graph | Recursion | Dynamic Programming
    - DP: https://www.youtube.com/watch?v=oBt53YbR9Kk&t=6s&ab_channel=freeCodeCamp.org
    - Recursion: https://www.youtube.com/watch?v=IJDJ0kBx2LM&t=4403s&ab_channel=freeCodeCamp.org
