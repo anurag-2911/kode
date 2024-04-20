@@ -121,6 +121,17 @@ func TestSort012(t *testing.T) {
 	}
 
 }
+/*
+Variables: The variables low, mid, and high are pointers used to separate the elements:
+low is the position where the next 0 should be placed.
+mid is the current element being examined.
+high is the position where the next 2 should be placed.
+Switch Case Logic:
+When nums[mid] is 0, swap it with nums[low] (as 0 should be in the front), then increment both low and mid.
+When nums[mid] is 1, just move to the next element by incrementing mid.
+When nums[mid] is 2, swap it with nums[high] (as 2 should be at the end) and decrement high, but do not move mid because the swapped element needs to be checked in the next iteration.
+Loop Condition: The loop continues until mid surpasses high.
+*/
 func sort012(arr []int) []int {
 	low, mid, high := 0, 0, len(arr)-1
 
