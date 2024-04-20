@@ -72,11 +72,23 @@
    - DP: https://www.youtube.com/watch?v=oBt53YbR9Kk&t=6s&ab_channel=freeCodeCamp.org
    - Recursion: https://www.youtube.com/watch?v=IJDJ0kBx2LM&t=4403s&ab_channel=freeCodeCamp.org
    - Arrays common problems
-     - Reverse an Array
-     - Find the Missing Number in natural numbers (Asked in Amazon)
-     - Rotate Array
-     - Find the Duplicate Number
-     - Merge Two Sorted Arrays(Asked in HelloFresh)
+     - Find the Maximum and Minimum Element in an Array-
+          Write a function that returns the maximum and minimum numbers in an array.
+          Reverse an Array - Implement a program to reverse an array or a string.
+     - Sort an Array of 0s, 1s, and 2s - Given an array consisting only of 0s, 1s, and 2s,
+         sort the array without using any sorting algorithm.
+     - Find the "Kth" Max and Min Element of an Array -
+        Given an array and a number k, find both the kth largest and the kth smallest elements in the array.
+     - Move all the Negative Elements to One Side of the Array -
+        Rearrange the array elements so that all negative numbers appear on the left, and positive numbers appear on the right.
+     - Find the Duplicate in an Array of N+1 Integers -
+       Assume there is exactly one duplicate number in the array, find the duplicate one.
+     - Merge Two Sorted Arrays Without Using Extra Space -
+        Merge two sorted arrays into a single sorted array without using extra space for another array.
+     - Kadane's Algorithm - Write a function that returns the maximum sum contiguous subarray within a one-dimensional numeric array.
+     - Find the Union and Intersection of Two Sorted Arrays - Given two sorted arrays, find their union and intersection.
+     - Cyclically Rotate an Array by One - Given an array, cyclically rotate the array clockwise by one index.
+     - 
    - String Common problems
      - Reverse a String | Check for Palindrome | Find Duplicate Characters | Anagrams | First Non-Repeated Character | Most Repeated Character | String to Integer | Longest Substring Without Repeating Characters
      - Longest Palindromic Substring | Substring Check | String Compression | Valid Parentheses
@@ -84,11 +96,11 @@
        - Two Sum Problem
           (Given an array of integers and a target sum, find two numbers that add up to the target sum.)
        - Longest Consecutive Sequence
-          (Given an unsorted array of integers, find the length of the longest consecutive elements sequence.)
+          (Given an unsorted array of integers, find the longest consecutive element sequence length.)
        - First Unique Character in a String
           (Find the first non-repeating character in a string and return its index.)
        - Subarray Sum Equals K
-          (Given an array of integers and an integer k, find the total number of continuous subarrays whose sum equals to k.)
+          (Given an array of integers and an integer k, find the total number of continuous subarrays whose sum equals k.)
        - Group Anagrams
           (Given an array of strings, group anagrams together.)
        - Contains Duplicate
