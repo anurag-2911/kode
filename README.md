@@ -5,6 +5,15 @@
     -  handling edge cases
     -  UTs
  - Or Online coding by hacker rank, codility, etc (Live coding is easier as the approach can be demonstrated even if the problem is not exactly solved)
+ - Assignments: typically 1 week is given for assignments
+    - Readable, modular, production-grade code
+    - Edge cases
+    - Secure code: Like handling of configuration of secrets
+    - UTs
+    - Docker file
+    - Folder structure and maintainable code
+    - Formatting
+    - 
  - Conversational interview(no coding or design): Technical questions about skillset and projects: 1 hr 
  - System Design (1 or 2 rounds): 1 hr
  - Executive interview(no coding or design): technical conversational interview by higher management: 1 hr
