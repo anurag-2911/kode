@@ -11,7 +11,7 @@ import (
  1. Find the Maximum and Minimum Element in an Array-
     Write a function that returns the maximum and minimum numbers in an array.
 
- 2. Reverse an Array - Implement a program to reverse an array or a string.
+2. Reverse an Array - Implement a program to reverse an array or a string.
 
  3. Sort an Array of 0s, 1s, and 2s - Given an array consisting only of 0s, 1s, and 2s,
     sort the array without using any sorting algorithm.
@@ -28,12 +28,12 @@ import (
  7. Merge Two Sorted Arrays Without Using Extra Space -
     Merge two sorted arrays into a single sorted array without using extra space for another array.
 
- 8. Kadane's Algorithm - Write a function that returns the maximum sum contiguous subarray within a one-dimensional numeric array.
+8. Kadane's Algorithm - Write a function that returns the maximum sum contiguous subarray within a one-dimensional numeric array.
 
  9. Find the Union and Intersection of Two Sorted Arrays - Given two sorted arrays,
     find their union and intersection.
 
- 10. Cyclically Rotate an Array by One - Given an array, cyclically rotate the array clockwise by one index.
+10. Cyclically Rotate an Array by One - Given an array, cyclically rotate the array clockwise by one index.
 */
 func TestXxx(t *testing.T) {
 	fmt.Print()
@@ -156,4 +156,66 @@ func sort012(arr []int) []int {
 		}
 	}
 	return arr
+}
+
+func TestRevStr(t *testing.T) {
+	tests := []struct {
+		Name     string
+		str      string
+		expected string
+	}{
+		{"test1", "hallo", "ollah"},
+	}
+	sops := &StringOps{}
+
+	for _, test := range tests {
+		t.Run(test.Name, func(t *testing.T) {
+			result := sops.revstr(test.str)
+			if reflect.DeepEqual(result, test.expected) {
+				t.Errorf("not matching")
+			}
+		})
+	}
+}
+
+type StringOps struct{}
+
+func (sops *StringOps) revstr(str string) string {
+	runes := []rune(str)
+
+	for i, j := 0, len(str)-1; i < j; i, j = i+1, j-1 {
+		runes[i], runes[j] = runes[j], runes[i]
+	}
+	return string(runes)
+}
+
+func checkPalin(str string) bool {
+	runes := []rune(str)
+	for i, j := 0, len(str)-1; i < j; i, j = i+1, j-1 {
+		if runes[i] != runes[j] {
+			return false
+		}
+	}
+	return true
+}
+
+func isAnagram(str1 string, str2 string) bool {
+	words := make(map[rune]int)
+
+	for _, char := range str1 {
+		words[char]++
+	}
+
+	for _, char := range str2 {
+		if _, exists := words[char]; exists {
+			words[char]--
+			if words[char] == 0 {
+				delete(words, char)
+			}
+		} else {
+			return false
+		}
+	}
+
+	return len(words) == 0
 }
