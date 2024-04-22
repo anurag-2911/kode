@@ -219,3 +219,20 @@ func isAnagram(str1 string, str2 string) bool {
 
 	return len(words) == 0
 }
+
+func firstNonRepeatingChar(str string)(rune,bool){
+	words:=make(map[rune]int)
+	runes:=[]rune(str)
+
+	for _,val:=range runes{
+		words[val]++
+	}
+
+	for _,val:=range runes{
+		if words[val]==1{
+			return val,true
+		}
+	}
+
+	return 0,false
+}
