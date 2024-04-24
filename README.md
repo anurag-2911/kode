@@ -234,14 +234,14 @@
 ## Event Driven Design
   - Resource
     - Small projects
-  - Kafka
+  - Kafka: https://www.youtube.com/watch?v=j4bqyAMMb7o&list=PLa7VYi0yPIH0KbnJQcMv5N9iW8HkZHztH&ab_channel=Confluent
   - rabbitmq
   - 
 
 ## Caching
   - Resource
      - Small projects
-  - Redis
+  - Redis : https://www.youtube.com/watch?v=8sHCdz_tOjk&list=PL4cUxeGkcC9h3V2eqhi8rRdIDJshP-b4P&ab_channel=NetNinja
   - MemCache
 
 ## Object-Oriented Programming and Design Patterns
