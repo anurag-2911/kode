@@ -197,7 +197,12 @@
 
 
 ## Kubernetes
-  - Resource: Implementing K8s concepts by doing small projects
+  - Resource:
+    - Implementing K8s concepts by doing small projects
+    - https://www.youtube.com/playlist?list=PLdpzxOOAlwvJdsW6A0jCz_3VaANuFMLpc
+    - https://www.youtube.com/playlist?list=PLyBW7UHmEXgylLwxdVbrBQJ-fJ_jMvh8h
+    - https://www.youtube.com/watch?v=EGgtJUjky8w&ab_channel=PrometheusMonitoringwithJulius%7CPromLabs
+    - 
   - Kubernetes Architecture: Kubernetes cluster, nodes, pods, services, etcd, kubelet, kube-proxy, and the control plane (API server, scheduler, controller manager).
   - How Kubernetes manages containerized applications and what components are involved in deploying an application.
   - Pods and Containers
