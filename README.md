@@ -46,6 +46,8 @@
     - 
   - High-Level Design Problems (HLDs)
      - URL Shortener
+     - Unique ID Generator in Distributed system:
+        - multi-master replication, UUID(GUID), ticket server, and Twitter snowflake-like unique ID generator
      - Rate Limiter
         - Token Bucket Algorithm
      - Storage based Design
