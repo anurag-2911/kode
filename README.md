@@ -46,6 +46,8 @@
     - 
   - High-Level Design Problems (HLDs)
      - URL Shortener
+     - Unique ID Generator in Distributed system:
+        - multi-master replication, UUID(GUID), ticket server, and Twitter snowflake-like unique ID generator
      - Rate Limiter
         - Token Bucket Algorithm
      - Storage based Design
@@ -197,7 +199,12 @@
 
 
 ## Kubernetes
-  - Resource: Implementing K8s concepts by doing small projects
+  - Resource:
+    - Implementing K8s concepts by doing small projects
+    - https://www.youtube.com/playlist?list=PLdpzxOOAlwvJdsW6A0jCz_3VaANuFMLpc
+    - https://www.youtube.com/playlist?list=PLyBW7UHmEXgylLwxdVbrBQJ-fJ_jMvh8h
+    - https://www.youtube.com/watch?v=EGgtJUjky8w&ab_channel=PrometheusMonitoringwithJulius%7CPromLabs
+    - 
   - Kubernetes Architecture: Kubernetes cluster, nodes, pods, services, etcd, kubelet, kube-proxy, and the control plane (API server, scheduler, controller manager).
   - How Kubernetes manages containerized applications and what components are involved in deploying an application.
   - Pods and Containers
@@ -234,14 +241,14 @@
 ## Event Driven Design
   - Resource
     - Small projects
-  - Kafka
+  - Kafka: https://www.youtube.com/watch?v=j4bqyAMMb7o&list=PLa7VYi0yPIH0KbnJQcMv5N9iW8HkZHztH&ab_channel=Confluent
   - rabbitmq
   - 
 
 ## Caching
   - Resource
      - Small projects
-  - Redis
+  - Redis : https://www.youtube.com/watch?v=8sHCdz_tOjk&list=PL4cUxeGkcC9h3V2eqhi8rRdIDJshP-b4P&ab_channel=NetNinja
   - MemCache
 
 ## Object-Oriented Programming and Design Patterns
