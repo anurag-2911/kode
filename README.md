@@ -162,6 +162,8 @@
   - 
 ## CI/CD
   - Resource: Implementing on projects
+  - Example: https://github.com/anurag-2911/kode/blob/main/.github/workflows/buildnPush.yml and https://github.com/anurag-2911/kode/blob/main/Dockerfile:
+     - Here, the Github Actions workflow is used to build the code, run the tests, and push the docker image to the Docker hub.
   - Explain Continuous Integration, Continuous Deployment, and Continuous Delivery done in your project.
   - Can you describe the CI/CD pipeline and its key stages
   - What tools are you familiar with for implementing CI/CD?
