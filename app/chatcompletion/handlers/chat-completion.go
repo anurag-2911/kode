@@ -8,6 +8,7 @@ import (
 	"net/http"
 	"os"
 	"github.com/anurag-2911/kode/app/chatcompletion/model"
+    "github.com/rs/cors"
 )
 
 const (
@@ -20,9 +21,23 @@ type Message struct {
 }
 
 func CallOpenAI() {
-	http.HandleFunc("/call-openai", handler)
-	log.Println("Server starting on port 8080...")
-	log.Fatal(http.ListenAndServe(":8080", nil))
+    mux := http.NewServeMux()
+    mux.HandleFunc("/call-openai", handler)
+	// http.HandleFunc("/call-openai", handler)
+    // Setup CORS : for local testing
+    c := cors.New(cors.Options{
+        AllowedOrigins:   []string{"http://localhost:3000"}, // Allowing the frontend server
+        AllowedMethods:   []string{"POST", "GET"}, // Methods allowed for the CORS-enabled resources
+        AllowedHeaders:   []string{"Authorization", "Content-Type"},
+        AllowCredentials: true,
+        Debug:            true, // Enable debug to see what's happening
+    })
+
+    // Wrap your HTTP handler with the CORS handler
+    handler := c.Handler(mux)
+    log.Println("Server starting on port 8080...")
+    log.Fatal(http.ListenAndServe(":8080", handler))
+	
 }
 
 func handler(w http.ResponseWriter, r *http.Request) {
