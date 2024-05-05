@@ -145,7 +145,7 @@
   - pointers
   - slices, arrays, and maps
   - Which OOPs concepts are supported in Go
-  - init function | type assertion
+  - init function | type assertion | empty interface and it's use
   - Go modules | Go sum file | packages 
   - Profiling tools: Memory and CPU profiling
   - UT and mocks: testing package and mock packages: simple tests,table-based testing, benchmark testing, etc.
