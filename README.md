@@ -184,7 +184,7 @@
   - 
 ## Microservices
   - Resource
-    - Implement small projects.
+    - Implement small projects. 
   - What are microservices? What are the challenges in microservices architecture?
   - Can you explain the concept of domain-driven design (DDD) in the context of microservices?
   - How do microservices communicate with each other?
