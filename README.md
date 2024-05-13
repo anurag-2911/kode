@@ -186,6 +186,7 @@
   - Resource
     - Implement small projects. 
   - What are microservices? What are the challenges in microservices architecture?
+  - Design patterns in microservices.
   - Can you explain the concept of domain-driven design (DDD) in the context of microservices?
   - How do microservices communicate with each other?
     (synchronous and asynchronous communication methods between microservices, such as RESTful APIs, messaging queues, and event streams)
@@ -209,7 +210,7 @@
     - 
   - Kubernetes Architecture: Kubernetes cluster, nodes, pods, services, etcd, kubelet, kube-proxy, and the control plane (API server, scheduler, controller manager).
   - How Kubernetes manages containerized applications and what components are involved in deploying an application.
-  - Pods and Containers
+  - Pods and Containers | life cycles of a pod
   - imagePullSecrets and how to pull images other than docker hub.
   - Services and Networking
   - The concept of services and how they enable communication between different parts of a cluster.Types of services (ClusterIP, NodePort, LoadBalancer).
