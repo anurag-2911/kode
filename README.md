@@ -64,7 +64,7 @@
         - Web crawler
         - Google Map
         - Search Engine
-        - Nearby Friends
+        - Nearby Friends, Proximity services
         - News Feed
 
 ## Low-Level Design (LLDs): actual functions and code
