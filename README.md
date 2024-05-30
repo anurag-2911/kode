@@ -64,7 +64,7 @@
         - Web crawler
         - Google Map
         - Search Engine
-        - Nearby Friends
+        - Nearby Friends, Proximity services
         - News Feed
 
 ## Low-Level Design (LLDs): actual functions and code
@@ -145,7 +145,7 @@
   - pointers
   - slices, arrays, and maps
   - Which OOPs concepts are supported in Go
-  - init function | type assertion
+  - init function | type assertion | empty interface and it's use
   - Go modules | Go sum file | packages 
   - Profiling tools: Memory and CPU profiling
   - UT and mocks: testing package and mock packages: simple tests,table-based testing, benchmark testing, etc.
@@ -184,8 +184,9 @@
   - 
 ## Microservices
   - Resource
-    - Implement small projects.
+    - Implement small projects. 
   - What are microservices? What are the challenges in microservices architecture?
+  - Design patterns in microservices.
   - Can you explain the concept of domain-driven design (DDD) in the context of microservices?
   - How do microservices communicate with each other?
     (synchronous and asynchronous communication methods between microservices, such as RESTful APIs, messaging queues, and event streams)
@@ -209,7 +210,8 @@
     - 
   - Kubernetes Architecture: Kubernetes cluster, nodes, pods, services, etcd, kubelet, kube-proxy, and the control plane (API server, scheduler, controller manager).
   - How Kubernetes manages containerized applications and what components are involved in deploying an application.
-  - Pods and Containers
+  - Pods and Containers | life cycles of a pod
+  - imagePullSecrets and how to pull images other than docker hub.
   - Services and Networking
   - The concept of services and how they enable communication between different parts of a cluster.Types of services (ClusterIP, NodePort, LoadBalancer).
   - Network policies and their role in controlling pod communication within a cluster.
@@ -226,6 +228,7 @@
      - Familiarity with `kubectl` commands for managing resources.
      - Understanding how to interact with the Kubernetes API.
   - Security Practices
+    - How to secure the cluster
     - Role-based access control (RBAC), Security Contexts, and Network Policies.
     - Best practices for securing a Kubernetes cluster.
   - Monitoring and Logging
