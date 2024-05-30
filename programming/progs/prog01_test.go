@@ -113,15 +113,16 @@ while maintaining the relative order of the non-zero elements.
 */
 
 func (aops *ArrayOps) movezeros(nums []int) []int {
-	j := 0 // index to put non zero element
+	lastNonZeroFoundAt := 0
 
-	for i := 0; i < len(nums); i++ {
-		if nums[i] != 0 {
-			if i != j {
-				nums[j], nums[i] = nums[i], nums[j]
-			}
-			j++
+	for _, num := range nums {
+		if num != 0 {
+			nums[lastNonZeroFoundAt] = num
+			lastNonZeroFoundAt++
 		}
+	}
+	for i := lastNonZeroFoundAt; i < len(nums); i++ {
+		nums[i] = 0
 	}
 	return nums
 }
