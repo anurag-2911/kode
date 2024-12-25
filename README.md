@@ -80,6 +80,51 @@
       - Attempt for 30 mins to 45 mins then look for help
       - Eventually, solve all the problems without any help
    - Arrays | Strings | HashTable | Queues | LinkList | Stack | Search | Sort | Graph | Recursion | Dynamic Programming
+   - Sliding window approach problems
+       - Basic Problems
+         - Maximum Sum of Subarray of Size K
+           Given an array and an integer k, find the maximum sum of any contiguous subarray of size k.
+         - Minimum Size Subarray Sum
+           Find the smallest contiguous subarray with a sum greater than or equal to a target value.
+         - Longest Substring Without Repeating Characters
+           Given a string, find the length of the longest substring without repeating characters.
+         - Longest Substring with At Most K Distinct Characters
+           Given a string and an integer k, find the length of the longest substring with at most k distinct characters.
+         - Maximum Number of Vowels in a Substring of Given Length
+           Given a string and an integer k, return the maximum number of vowels in any substring of size k.
+      - Intermediate Problems
+        - Sliding Window Maximum
+          - Given an array and a window size k, find the maximum value in each sliding window.
+        - Count Occurrences of Anagrams
+           - Given a string and a pattern, find all starting indices of the pattern's anagrams in the string.
+        - Permutations in a String
+          - Check if a string contains a permutation of another string as a substring.
+        - Longest Subarray with Ones After Replacement
+          - Given an array of binary numbers and an integer k, find the longest subarray containing only 1s after replacing at most k 0s.
+        - Longest Substring with an Equal Number of 0s and 1s
+          - Find the length of the longest substring with an equal number of 0s and 1s.
+        - Advanced Problems
+        - Minimum Window Substring
+          - Given two strings s and t, find the minimum window in s that contains all characters of t.
+        - Subarrays with K Different Integers
+          - Given an array and an integer k, find the number of subarrays containing exactly k different integers.
+        - Longest Repeating Character Replacement
+          - Replace at most k characters in a string to get the longest substring with all the same characters.
+        - Fruit into Baskets
+          - You have two baskets and a row of trees with fruits. Find the maximum number of fruits you can collect by picking only two types.
+        - Longest Substring with At Least K Repeating Characters
+          - Given a string and an integer k, find the length of the longest substring where each character appears at least k times.
+        - Dynamic Problems
+        - Max Consecutive Ones III
+          - Find the maximum number of consecutive 1s in a binary array if you can flip at most k 0s.
+        - Smallest Subarray with a Given Sum (Positive Numbers)
+          - Find the smallest subarray with a sum greater than or equal to a target value.
+        - Subarray Product Less Than K
+          - Find the number of contiguous subarrays where the product of all elements is less than k.
+        - K-Concatenation Maximum Sum
+          - Given an array and an integer k, find the maximum sum of any subarray of the array repeated k times.
+        - Maximum Erasure Value
+          - Find the maximum sum of a subarray with all unique elements.
    - DP: https://www.youtube.com/watch?v=oBt53YbR9Kk&t=6s&ab_channel=freeCodeCamp.org
    - Recursion: https://www.youtube.com/watch?v=IJDJ0kBx2LM&t=4403s&ab_channel=freeCodeCamp.org
    - Arrays common problems
