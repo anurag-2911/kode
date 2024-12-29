@@ -7,10 +7,10 @@
  - Or Online coding by hacker rank, codility, etc (Live coding is easier as the approach can be demonstrated even if the problem is not exactly solved)
  - Assignments: typically 1 week is given for assignments
     - Readable, modular, production-grade code
-    - Edge cases
+    - error and edge cases
     - Secure code: Like handling of configuration of secrets
     - UTs
-    - Docker file
+    - Docker and Kubernetes files
     - Folder structure and maintainable code
     - Formatting
     - 
@@ -26,6 +26,7 @@
       - Write high-level design and high-level diagrams
       - Implement all the components of high-level diagrams in detail
     - Resources:
+      - https://www.youtube.com/@hello_interview
       - https://bytebytego.com/courses/system-design-interview/foreword
       - https://www.educative.io/courses/grokking-modern-system-design-interview-for-engineers-managers
       - Implement small projects for each design problem and refine them to perfection.
