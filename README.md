@@ -347,7 +347,7 @@
 ## Database
    - Resource:
      - Implement Small projects
-   - PostGresSQL | Cassandra | MongoDB 
+   - PostGresSQL | Cassandra | MongoDB | DynamoDB | Redis
    - Relational database design | Normalization and denormalization | Primary, foreign keys.
    - SQL queries involving multiple tables (JOINs, subqueries, unions).
    - Aggregate functions and how to use GROUP BY and HAVING clauses.
