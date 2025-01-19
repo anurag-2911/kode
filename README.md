@@ -61,11 +61,13 @@
      -  E-commerce
          - Design Hotel reservation
          - Design Shopping websites like Amazon
-     -  Graph-Based design:
+     -  Proximity-based design:
         - Web crawler
         - Google Map
         - Search Engine
-        - Nearby Friends, Proximity services
+        - Nearby Friends
+        - Uber
+        - Food Delivery
         - News Feed
 
 ## Low-Level Design (LLDs): actual functions and code
